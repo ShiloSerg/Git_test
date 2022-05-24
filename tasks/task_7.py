@@ -23,11 +23,10 @@ def generate_person():
     else:
         with open(file_name, 'r', encoding="utf8") as f:
             data = json.load(f)
-            print(data)
+            print(f'В файл записана следующая информация: {new_person}')
             data += new_person
         with open(file_name, 'w', encoding="utf8") as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
-
 
 
 if __name__ == '__main__':
