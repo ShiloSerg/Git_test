@@ -24,11 +24,10 @@ def generate_person():
         with open(file_name, 'r', encoding="utf8") as f:
             data = json.load(f)
             print(data)
-            # data = list(data)
             data += new_person
         with open(file_name, 'w', encoding="utf8") as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
-            # print(json.dumps(new_person, indent=4))
+
 
 
 if __name__ == '__main__':
