@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Изот",
+        "surname": "Попов",
+        "login": "nifontvorobev",
+        "password": "^Q3XTlKk*3",
+        "address": "с. Красная Поляна, наб. Горняцкая, д. 9 к. 936, 061382",
+        "email": "anikita11@example.net",
+        "phone": "+75194603254",
+        "register_time": "2022-05-24T21:19:00"
+    },
+    {
+        "name": "Леонтий",
+        "surname": "Брагин",
+        "login": "oksana47",
+        "password": "37X2HUlC&t",
+        "address": "к. Краснотурьинск, алл. Высотная, д. 647 к. 379, 445745",
+        "email": "pantelemonkondratev@example.org",
+        "phone": "8 (380) 265-61-26",
+        "register_time": "2022-05-24T21:19:06"
+    },
+    {
+        "name": "Валерьян",
+        "surname": "Пахомов",
+        "login": "modest2014",
+        "password": "!AxUNbCZb2",
+        "address": "ст. Муром, ул. Высотная, д. 2 к. 69, 932370",
+        "email": "efrem_1994@example.org",
+        "phone": "+7 249 687 6753",
+        "register_time": "2022-05-24T21:19:13"
+    }
+]
